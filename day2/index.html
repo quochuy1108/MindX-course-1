@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day2</title>
+</head>
+<body>
+    <script>
+        // đơn hướng
+        if(true){
+            console.log('i am running...');
+        }
+        if(false){
+            console.log('i am not running...');
+        }
+        // biểu thức so sánh == , > , >= , < , <=
+        if( 1 != 0 ){
+            console.log('1 khác 0');
+        }
+        if( 10 == 10 ){
+            console.log('10 = 10');
+        }
+        if(!false){
+            console.log('Đúng r');
+        }
+        if(!(5 == 5)){
+            console.log('Ko chạy vào');
+        }
+        // TOán từ trước so sánh
+        if(1 + 1 == 3 - 1){
+            console.log('Right');
+        }
+        // AND
+        // true and true => true
+        // true and false => false
+
+        // or
+        // true or true => true
+        // true or false => true
+        if(true && true){
+            console.log("Hello");
+        }
+        if(true || false){
+            console.log('Hi');
+        }
+        if(5 - 5){
+            console.log('Falsy');
+        }
+        if(6 -5 && true){
+            console.log('runninggggg');
+        }
+        if('Huy'){
+            console.log('Huy');
+        }
+
+
+        // var a = prompt('Bạn hãy nhập vào số a');
+        // console.log(a);
+        // var b = prompt('Bạn hãy nhập vào số b');
+        // console.log(b);
+
+        // Điều kiện rẽ nhánh đa luồng
+        if(false){
+            console.log('hello');
+        }
+        else if(5 - 9 == -3){
+            console.log('-4');
+        }
+        else if(1 - 2 == -1){
+            console.log('-1');
+        }
+
+        // tiền tố, hậu tố
+        var a = 1;
+        var b = a++;
+        // gán rồi mới +
+        var c = ++a;   
+        // + rồi mới gán     
+        console.log(a);
+       
+        // switch
+        switch("hello"){
+            case "helle" :
+                console.log('đúng');
+            case "hello" :
+                console.log('đúng');
+                break;
+            case "hello" :
+                console.log('đúng');
+            
+        }
+        // == vs ===
+        // == : so sánh vs giá trị
+        // === : so sánh tuyệt đối
+        
+    </script>
+</body>
+</html>

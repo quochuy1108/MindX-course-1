@@ -1,0 +1,319 @@
+    1  git config --global user.email huynqa1h1909011@fpt.edu.vn
+    2  git config --global user.name quochuy1108
+    3  git init
+    4  heroku git:remote -a quochuy1108
+    5  git add .
+    6  git commit. -m "huy"
+    7  git push heroku master
+    8   heroku git:remote -a quochuy1108
+    9  git commit -m "huyyyy"
+   10  git push heroku master
+   11  git add .
+   12  git commit -m "huyyyy"
+   13  git push heroku master
+   14  git add .
+   15  git commit -m "huyyyy"
+   16  git push heroku master
+   17  git add .
+   18  git commit -m "huyyyy"
+   19  git push heroku master
+   20  git add .
+   21  git commit -m "huyyyy"
+   22  git push heroku master
+   23  git add .
+   24  git commit -m "huyyyy"
+   25  git push heroku master
+   26  git add .
+   27  git commit -m "huyyyy"
+   28  git push heroku master
+   29  git add .
+   30  git commit -m "huyyyy"
+   31  git push heroku master
+   32  git add .
+   33  git commit -m "huyyyy"
+   34  git push heroku master
+   35  git add .
+   36  git commit -m "huyyyy"
+   37  git push heroku master
+   38  git add .
+   39  git commit -m "huyyyy"
+   40  git push heroku master
+   41  git add .
+   42  git commit -m "huyyyy"
+   43  git push heroku master
+   44  git add .
+   45  git commit -m "huyyyy"
+   46  git push heroku master
+   47  git add .
+   48  git commit -m "huyyyy"
+   49  git push heroku master
+   50  git add .
+   51  git commit -m "huyyyy"
+   52  git push heroku master
+   53  git push heroku master
+   54  git add .
+   55  git commit -m "huyyyy"
+   56  git push heroku master
+   57  git add .
+   58  git commit -m "huyyyy"
+   59  git push heroku master
+   60  git add .
+   61  git commit -m "huyyyy"
+   62  git push heroku master
+   63  git add .
+   64  git commit -m "huyyyy"
+   65  git push heroku master
+   66  git add .
+   67  git commit -m "huyyyy"
+   68  git push heroku master
+   69  git add .
+   70  git commit -m "huyyyy"
+   71  git push heroku master
+   72  git add .
+   73  git commit -m "huyyyy"
+   74  git push heroku master
+   75  git add .
+   76  git commit -m "huyyyy"
+   77  git push heroku master
+   78  git add .
+   79  git commit -m "huyyyy"
+   80  git push heroku master
+   81  git add .
+   82  git commit -m "huyyyy"
+   83  git push heroku master
+   84  git add .
+   85  git commit -m "huyyyy"
+   86  git push heroku master
+   87  git add .
+   88  git commit -m "huyyyy"
+   89  git push heroku master
+   90  git add .
+   91  git commit -m "huyyyy"
+   92  git add .
+   93  git commit -m "huyyyy"
+   94  git push heroku master
+   95  git add .
+   96  git commit -m "huyyyy"
+   97  git push heroku master
+   98  git add .
+   99  git commit -m "huyyyy"
+  100  git push heroku master
+  101  git add .
+  102  git commit -m "huyyyy"
+  103  git push heroku master
+  104  git add .
+  105  git commit -m "huyyyy"
+  106  git push heroku master
+  107  git add .
+  108  git commit -m "huyyyy"
+  109  git push heroku master
+  110  git add .
+  111  git commit -m "huyyyy"
+  112  git push heroku master
+  113  git add .
+  114  git commit -m "huyyyy"
+  115  git push heroku master
+  116  git add .
+  117  git commit -m "huyyyy"
+  118  git push heroku master
+  119  git add .
+  120  git commit -m "huyyyy"
+  121  git push heroku master
+  122  git add .
+  123  git commit -m "huyyyy"
+  124  git push heroku master
+  125  git add .
+  126  git commit -m "huyyyy"
+  127  git push heroku master
+  128  git add .
+  129  git commit -m "huyyyy"
+  130  git push heroku master
+  131  git add .
+  132  git commit -m "huyyyy"
+  133  git push heroku master
+  134  git add .
+  135  git commit -m "huyyyy"
+  136  git push heroku master
+  137  git add .
+  138  git commit -m "huyyyy"
+  139  git push heroku master
+  140  git add .
+  141  git commit -m "huyyyy"
+  142  git push heroku master
+  143  unikey
+  144  unikey
+  145  this pc
+  146  git add .
+  147  git commit -m "huyyyy"
+  148  git push heroku master
+  149  git add .
+  150  git commit -m "huyyyy"
+  151  git push heroku master
+  152  hídjiad
+  153  sadasd
+  154  ad
+  155  á
+  156  dđ
+  157  sadas
+  158  d
+  159  odjoas
+  160  áda
+  161  đ
+  162  sd
+  163  ád
+  164  dfqsđ
+  165  adadad
+  166  sda
+  167  sd
+  168  ád
+  169  fkwjjip
+  170  sdqwad
+  171  qưdsadoj
+  172  1
+  173  2
+  174  33
+  175  4
+  176  4
+  177  5
+  178  2
+  179  1
+  180  123
+  181  3
+  182  123
+  183  213
+  184  5
+  185  5
+  186  2
+  187  1
+  188  1
+  189  d
+  190  d
+  191  đ
+  192  đ
+  193  f
+  194  fff4
+  195  sdadas
+  196  okoko
+  197  sadasdasds
+  198  áda
+  199  sd
+  200  sd
+  201  ls
+  202  cd ..
+  203  ls
+  204  cd ./day2
+  205  cd ..
+  206  cd ./day6
+  207  ls
+  208  clear
+  209  cd ..
+  210  cd ./day6
+  211  ls
+  212  history
+  213  clear
+  214  ls
+  215  cd
+  216  ls
+  217  clear
+  218  mkdir
+  219  mkdir Ten
+  220  clear
+  221  cd
+  222  cd ./Desktop/MindX/1/day6
+  223  mkdir Tennnnnn
+  224  ls
+  225  cd ./Ten
+  226  ls
+  227  cd ..
+  228  cd ./Ten
+  229  rm -r
+  230  rm -rf
+  231  ls
+  232  cd ..
+  233  touch index.go
+  234  mkdir Huy
+  235  rm -r
+  236  cd ./Huy/
+  237  rm 
+  238  rm -r
+  239  rm -Huy
+  240  rm -r Huy
+  241  ls
+  242  cd ..
+  243  rm -r Huy
+  244  ls
+  245  cd ..
+  246  cd ./1
+  247  cd ..
+  248  ls
+  249  cd ./1
+  250  ls
+  251  mkdir day7
+  252  touch 2.html
+  253  rm -r day7
+  254  rm -rf 2.html
+  255  clear
+  256  mkdir day7
+  257  cd ./day7
+  258  ls
+  259  touch 2.html
+  260  ls
+  261  touch 3.css
+  262  mkdir con
+  263  ls
+  264  mr -rf
+  265  ls
+  266  mr -r all
+  267  mr -r 2.html
+  268  rm -r all
+  269  rm -r con
+  270  rm -rf
+  271  rm -rf all
+  272  rm -rf 2.html
+  273  rm -rf 3.css
+  274  cd ..
+  275  rm -r day7
+  276  code .
+  277  code .
+  278  code .
+  279  code .
+  280  git init
+  281  git add index.html
+  282  git add index.html
+  283  git log
+  284  git status
+  285  git commit -m "khoi tao index"
+  286  git log
+  287  git add .
+  288  git commit -m 'sửa linh tinh thôi'
+  289  git ad .
+  290  git ad .
+  291  git add .
+  292  git commit 'tính tuổi'
+  293  git add .
+  294  git commit -m 'kiểm tra năm sinh hợp lệ'
+  295  git init
+  296  git add .
+  297  git ad .
+  298  git add .
+  299  git commit -m 'học js'
+  300  git remote add origin https://github.com/quochuy1108/H-c-Js.git
+  301  git remote -v
+  302  git branch test
+  303  git branch
+  304  git checkout test
+  305  git add .
+  306  git commit -m 'testing'
+  307  got branch
+  308  git branch
+  309  git checkout master
+  310  git merge test
+  311  git log
+  312  git push origin
+  313  git remote -v
+  314  git push origin
+  315  git push origin master
+  316  clear
+  317  history
+  318  history > hoc git.txt
+  319  history > git.txt

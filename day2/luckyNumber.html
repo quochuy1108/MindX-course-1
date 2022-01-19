@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>luckyNumber</title>
+</head>
+<body>
+    <script>
+        var number = prompt('Nhập con số may mắn');
+        var machineNumber = Math.random() * 10 + 1;
+        console.log(machineNumber);
+        
+        console.log(parseInt(machineNumber) );
+       if(parseInt(number) == parseInt(machineNumber)){
+           console.log('Win');
+       }
+       else{
+        console.log('Lose');
+       }
+    </script>
+</body>
+</html>

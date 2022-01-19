@@ -1,0 +1,50 @@
+  272  rm -rf 2.html
+  273  rm -rf 3.css
+  274  cd ..
+  275  rm -r day7
+  276  code .
+  277  code .
+  278  code .
+  279  code .
+  280  git init
+  281  git add index.html
+  282  git add index.html
+  283  git log
+  284  git status
+  285  git commit -m "khoi tao index"
+  286  git log
+  287  git add .
+  288  git commit -m 'sửa linh tinh thôi'
+  289  git ad .
+  290  git ad .
+  291  git add .
+  292  git commit 'tính tuổi'
+  293  git add .
+  294  git commit -m 'kiểm tra năm sinh hợp lệ'
+  295  git init
+  296  git add .
+  297  git ad .
+  298  git add .
+  299  git commit -m 'học js'
+  300  git remote add origin https://github.com/quochuy1108/H-c-Js.git
+  301  git remote -v
+  302  git branch test
+  303  git branch
+  304  git checkout test
+  305  git add .
+  306  git commit -m 'testing'
+  307  got branch
+  308  git branch
+  309  git checkout master
+  310  git merge test
+  311  git log
+  312  git push origin
+  313  git remote -v
+  314  git push origin
+  315  git push origin master
+  316  clear
+  317  history
+  318  history > hoc git.txt
+  319  history > git.txt
+  320  history 50
+  321  history 50 > hocgit.txt

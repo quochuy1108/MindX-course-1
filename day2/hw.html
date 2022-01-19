@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>document</title>
+</head>
+<body>
+  <script>
+    
+       var x = prompt('Nhập số tháng trong năm');
+    var y = prompt('Nhập số năm ');
+    var z ;
+    if((x == 1 || x == 3 || x == 5 ||x == 7 ||x == 8 ||x == 10 ||x == 12) && y >= 0 ){
+      z = 31;
+      console.log('Thang ' + x + ' nam ' + y + ' co so ngay trong thang la ' + z );
+    }
+    else if((x == 4 ||x == 6 ||x == 9 ||x == 11) && y >= 0 ){
+      z= 30;
+      console.log('Thang ' + x + ' nam ' + y + ' co so ngay trong thang la ' + z );
+    }
+    else if(x == 2 && y > 0 && (y%4 == 0 || y%100 != 0 || y%400 == 0)){
+      z = 29;
+        console.log('Thang ' + x + ' nam ' + y + ' co so ngay trong thang la ' + z );
+    }
+    else if(x == 2 && y >= 0){
+      z = 28;
+      console.log('Thang ' + x + ' nam ' + y + ' co so ngay trong thang la ' + z );
+    }
+    else{
+      console.log('wrong infomation');
+    }
+   
+   
+   
+  </script>
+</body>
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // let arr = [1,3,4];
+      function bubbleSort(arr) {
+        let numb;
+        for (let i = 0; i < arr.length; i++) {
+          for (let j = 0; j < arr.length; j++) {
+            if (arr[i] < arr[j]) {
+              numb = arr[i];
+              arr[i] = arr[j];
+              arr[j] = numb;
+            }
+          }
+        }
+        return arr;
+      }
+      console.log(bubbleSort([1, 4, 6, 3, 7, 12, 20, 8]));
+
+      // // arr.sort(function(a,b){
+      // //     return a-b
+      // // })
+      // // console.log(arr);
+      // // MAP: tạo 1 mảng mới từ mảng có sẵn
+      // let newArr = arr.map(function(value){
+      //     return value + 10
+      // })
+      // // FILTER: lặp thành 1 mảng mới với 1 điều kiện, trả về true > nhét vào mảng, false ko ra gì
+      // let newArrFilter = arr.filter(function(value){
+      //     if(value % 2 == 0 ){
+      //         return true
+      //     }
+      // })
+      // // REDUCE: gặp trong tính tiền
+      // let sum = arr.reduce(function(pre, cur){
+      //         pre += cur;
+      //         return pre
+      // },55)
+      // console.log(sum);
+
+      //     let profit = [1000,2000,3500,4000];
+      //     let newProfit = [];
+      //     // // c1
+      //     // // for (let i = 0; i < profit.length; i++) {
+      //     // //     newProfit.push(profit[i] + 0.05*profit[i])
+      //     // // }
+      //     // // // c2
+      //     // // profit.forEach(function(value){
+      //     // //     newProfit.push(value + value * 0.05)
+      //     // // })
+      //     // // c3
+      //    var newprofit = profit.map(function(value){
+      //         return value + value * 0.05
+      //     })
+      //     for(let value of newprofit){
+      //         console.log(value);
+
+      //     }
+      // Học js tại MindX
+    </script>
+  </body>
+</html>

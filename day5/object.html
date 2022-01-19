@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="app.js"></script>
+
+</head>
+<body>
+    <script>
+        let co = {
+    mauSac : ['Black','Blue','White','Red'],
+    tuoi : 5,
+    isFly : false,
+    speak:function(){
+        console.log('Quack quack');
+        return 'keu cai gje`'
+    },
+    introduce:function(){
+        console.log('toi co mau sac', this.mauSac.join(' '));
+        this.speak()
+    }
+}
+for (const keyCo in co) {
+      if(typeof co[keyCo] == 'function'){
+          console.log(keyCo, co[keyCo]());
+      }
+      else{
+          console.log(keyCo, co[keyCo]);
+      }
+    }
+// ten sp, so lg mua , gia sp
+// reference type vs primitive type
+
+    </script>
+    <!-- all ca kieu du lieu dc khoi tao tu` object -->
+    <!-- defer : khi all code chạy xong thì defer mới chạy -->
+    <script src="object.js"></script>
+</body>
+</html>

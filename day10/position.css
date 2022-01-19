@@ -1,0 +1,33 @@
+*{margin: 0;padding:0}
+.cha{
+    
+    height: 300px;
+    margin: 70px 70px 0;
+    background-color: lightcoral;
+    border-radius: 8px;
+    position: relative;
+}
+.con{
+    position: absolute;
+    width: 150px;
+    height: 250px;
+    background-color: rgb(40, 110, 93);
+    top:200px;
+    left:172px
+}
+.con2{
+    position: absolute;
+    width: 150px;
+    height: 250px;
+    background-color: rgb(180, 81, 165);
+    left:494px;
+    top:200px
+}
+.con3{
+    position: absolute;
+    width: 150px;
+    height: 250px;
+    background-color: rgb(40, 53, 110);
+    left:816px;
+    top:200px
+}
